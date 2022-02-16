@@ -1,0 +1,1 @@
+ printf("\nArea of triangle is:%.2f\n",ar);
